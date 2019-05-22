@@ -1,5 +1,5 @@
-def unsafe? = 60
-
+def speed = 60
+if 
 end
 
 
